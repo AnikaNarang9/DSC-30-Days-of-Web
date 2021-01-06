@@ -1,0 +1,100 @@
+header
+{
+  background-color: rgba(115, 255, 87,0.5);
+  color:#156904;
+  margin: 0px;
+  padding : 20px;
+  text-align: center;
+  background-image: url("https://image.shutterstock.com/image-illustration/tender-green-shiny-natural-background-260nw-1670580922.jpg");
+
+}
+h2{
+  color: #156904;
+}
+
+html {
+	margin: 0px;
+	padding: 0px;
+	}
+body
+{
+  font: 75% georgia, sans-serif;
+  margin:0px;
+  padding:0px;
+  color: #555753;
+  background-color: #dcf7d5  ;
+
+
+}
+.withMargin{
+  margin-left: 10px;
+}
+
+.sideNav{
+
+  background-color: #95f57a;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  top: 0;
+  right:0;
+  position: fixed;
+
+}
+.sideNav a{
+  display: block;
+  text-align: left;
+  width: 100%;
+  padding: 10px 40px;
+  border-top: 1px solid black;
+  border-bottom:1px solid black;
+  text-decoration: none;
+  color: black;
+}
+table{
+  border-collapse: collapse;
+  width: 75%;
+  border-color: black;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+th{
+  background-color: #95f57a;
+}
+.iframe{
+  background: url("https://www.wallpaperbetter.com/wallpaper/847/27/633/pink-cherry-flowers-bloom-leaves-nature-blur-background-2K-wallpaper.jpg") center;
+  background-size: contain;
+}
+
+input{
+  width: 75%;
+  display: block;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 10px;
+}
+button{
+  background-color:  #95f57a;
+  border-color: #95f57a;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+
+
+}
+footer{
+  width: 100%;
+  margin: 10px;
+  padding: 30px;
+  font-size: 15px;
+}
